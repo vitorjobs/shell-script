@@ -1,0 +1,16 @@
+      <meta name="description" content="JavaScript Developer. Bachelor in Information Systems. Technology Student. Certified in ITIL OSA, ISO 27002, CTFL, MCP.
+      <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+      <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/96257857?v=4?s=400" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="vitorjobs - Repositories" /><meta name="twitter:description" content="JavaScript Developer. Bachelor in Information Systems. Technology Student. Certified in ITIL OSA, ISO 27002, CTFL, MCP.
+#JavaScript#Node#Backend#Developer# - vitorjobs" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="profile" /><meta property="og:title" content="vitorjobs - Repositories" /><meta property="og:url" content="https://github.com/vitorjobs" /><meta property="og:description" content="JavaScript Developer. Bachelor in Information Systems. Technology Student. Certified in ITIL OSA, ISO 27002, CTFL, MCP.
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
+        <p class="col-9 d-inline-block color-fg-muted mb-2 pr-4" itemprop="description">
